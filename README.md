@@ -3,9 +3,7 @@
 
 ## Project Overview
 
-This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By tackling a variety of questions, from basic to complex, you'll demonstrate your ability to write sophisticated SQL queries that extract valuable insights from large datasets.
-
-The project is ideal for data analysts looking to enhance their SQL skills by working with a large-scale dataset and solving real-world business questions.
+This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By solving real world business problems, from basic to complex, I gained practical experience of handling large datasets (with 1 million+ rows) and writing sophisticated SQL queries that extract valuable insights and conteibute to business growth.
 
 ## Entity Relationship Diagram (ERD)
 
@@ -14,16 +12,13 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 ---
 
 ### What’s Included:
-- **20 Advanced SQL Queries**: Step-by-step solutions for complex queries, enhancing your skills in performance tuning and optimization.
-- **5 Detailed Tables**: Comprehensive datasets with over 1 million rows, including sales, stores, product categories, products, and warranties.
-- **Query Performance Tuning**: Learn to optimize queries for real-world data handling.
-- **Portfolio-Ready Project**: Showcase your SQL expertise through large-scale data analysis.
+- **5 Detailed Tables**: Comprehensive datasets with over 1 million rows, including sales, stores, product categories, products and warranties.
+- **20 Advanced SQL Queries**: Developed step-by-step solutions for complex queries, which helped in enhancing skills for performance tuning and optimization.
+- **Query Performance Tuning**: Learned to optimize queries for real-world data handling.
 
-### Why Choose This Project?
+### Why I Chose This Project?
 - **Hands-on Learning**: Practical experience with complex datasets and advanced business problem-solving.
 - **Comprehensive Coverage**: Each table provides new opportunities to explore SQL concepts.
-- **Exceptional Value**: For just **$9**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
-- **Limited Offer**: Special price available for the **first 100 students**!
 
 ## Database Schema
 
@@ -63,7 +58,7 @@ The project uses five main tables:
 
 The project is split into three tiers of questions to test SQL skills of increasing complexity:
 
-### Easy to Medium (10 Questions)
+### Business Problems
 
 1. Find the number of stores in each country.
 2. Calculate the total number of units sold by each store.
@@ -75,17 +70,11 @@ The project is split into three tiers of questions to test SQL skills of increas
 8. Find the average price of products in each category.
 9. How many warranty claims were filed in 2020?
 10. For each store, identify the best-selling day based on highest quantity sold.
-
-### Medium to Hard (5 Questions)
-
 11. Identify the least selling product in each country for each year based on total units sold.
 12. Calculate how many warranty claims were filed within 180 days of a product sale.
 13. Determine how many warranty claims were filed for products launched in the last two years.
 14. List the months in the last three years where sales exceeded 5,000 units in the USA.
 15. Identify the product category with the most warranty claims filed in the last two years.
-
-### Complex (5 Questions)
-
 16. Determine the percentage chance of receiving warranty claims after each purchase for each country.
 17. Analyze the year-by-year growth ratio for each store.
 18. Calculate the correlation between product price and warranty claims for products sold in the last five years, segmented by price range.
