@@ -56,8 +56,6 @@ The project uses five main tables:
 
 ## Objectives
 
-The project is split into three tiers of questions to test SQL skills of increasing complexity:
-
 ### Business Problems
 
 1. Find the number of stores in each country.
@@ -95,7 +93,6 @@ This project primarily focuses on developing and showcasing the following SQL sk
 - **Correlation Analysis**: Applying SQL functions to determine relationships between variables, such as product price and warranty claims.
 - **Real-World Problem Solving**: Answering business-related questions that reflect real-world scenarios faced by data analysts.
 
-
 ## Dataset
 
 - **Size**: 1 million+ rows of sales data.
@@ -104,6 +101,6 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 ## Conclusion
 
-By completing this project, you will develop advanced SQL querying skills, improve your ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to your portfolio and will demonstrate your expertise in SQL to potential employers.
+By completing this project, I developed advanced SQL querying skills, improvedmy ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making.
 
 ---
