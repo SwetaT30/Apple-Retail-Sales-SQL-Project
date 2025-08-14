@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By solving real world business problems, from basic to complex, I gained practical experience of handling large datasets (with 1 million+ rows) and writing sophisticated SQL queries that extract valuable insights and conteibute to business growth.
+This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By solving real world business problems, from basic to complex, I gained practical experience of handling large datasets (with 1 million+ rows) and writing advanced SQL queries that extract valuable insights and conteibute to business growth.
 
 ## Entity Relationship Diagram (ERD)
 
